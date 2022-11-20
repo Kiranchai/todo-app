@@ -1,0 +1,14 @@
+{
+    "tasks": [
+            {
+                "title": "Wyrzucić śmieci",
+                "description": "Śmieci które znajdują się w garażu posegregować i wyrzucić do śmietnika",
+                "date": "2022-11-22"
+            },
+            {
+                "title": "Wyjść z psem",
+                "description": "Wyjść z Tusią na spacer dookoła parku",
+                "date":"2022-11-21"
+            }
+        ]
+}
